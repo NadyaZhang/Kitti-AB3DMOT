@@ -1,0 +1,9 @@
+﻿data/
+runs/
+.venv/
+.idea/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
